@@ -1,0 +1,5 @@
+flask
+google-cloud-vision
+opencv-python
+pillow
+numpy

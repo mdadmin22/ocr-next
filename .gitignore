@@ -16,6 +16,13 @@
 # next.js
 /.next/
 /out/
+node_modules/
+.next/
+.env.local
+.env
+.DS_Store
+.vscode/
+ocr-titulo-municipal-*.json
 
 # production
 /build
