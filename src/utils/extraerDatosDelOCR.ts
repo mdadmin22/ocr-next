@@ -1,3 +1,4 @@
+//src/utils/extraerDatosDelOCR.ts
 export interface DatosExtraidos {
   dominio: string;
   procedencia: 'I' | 'N' | '';
